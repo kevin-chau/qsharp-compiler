@@ -379,3 +379,6 @@ MSBuild_Logs/
 # LLVM source
 llvm-build/llvm-project/
 !llvm-build/GenerateLLVM.rsp
+
+# Custom
+*.DS_Store
